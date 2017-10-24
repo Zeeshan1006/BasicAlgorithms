@@ -7,10 +7,8 @@ namespace BasicAlgorithms
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter password");
-            string input = string.Empty;
-            input = Console.ReadLine();
-            string result = Encrypt.EncryptString(input);
+            string result = Encrypt.DecryptString("EBYaa4cRw7hsRlEeM2ng6w==");
+
             Console.WriteLine(result);
             Console.Read();
         }

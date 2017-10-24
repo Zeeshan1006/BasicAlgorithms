@@ -1,0 +1,8 @@
+C:\Users\abc\Documents\Visual Studio 2017\Projects\BasicAlgorithms\BasicAlgorithms\bin\Debug\BasicAlgorithms.exe.config
+C:\Users\abc\Documents\Visual Studio 2017\Projects\BasicAlgorithms\BasicAlgorithms\bin\Debug\BasicAlgorithms.exe
+C:\Users\abc\Documents\Visual Studio 2017\Projects\BasicAlgorithms\BasicAlgorithms\bin\Debug\BasicAlgorithms.pdb
+C:\Users\abc\Documents\Visual Studio 2017\Projects\BasicAlgorithms\BasicAlgorithms\obj\Debug\BasicAlgorithms.csprojResolveAssemblyReference.cache
+C:\Users\abc\Documents\Visual Studio 2017\Projects\BasicAlgorithms\BasicAlgorithms\obj\Debug\BasicAlgorithms.exe
+C:\Users\abc\Documents\Visual Studio 2017\Projects\BasicAlgorithms\BasicAlgorithms\obj\Debug\BasicAlgorithms.pdb
+C:\Users\abc\Documents\Visual Studio 2017\Projects\BasicAlgorithms\BasicAlgorithms\bin\Debug\GenericClasses.dll
+C:\Users\abc\Documents\Visual Studio 2017\Projects\BasicAlgorithms\BasicAlgorithms\obj\Debug\BasicAlgorithms.csproj.CoreCompileInputs.cache
